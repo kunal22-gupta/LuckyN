@@ -1,0 +1,9 @@
+.Button {
+    opacity: 0.8;
+    border: none;
+}
+.Button:hover {
+    opacity: 1;
+    outline: none;
+    border: none;
+}
